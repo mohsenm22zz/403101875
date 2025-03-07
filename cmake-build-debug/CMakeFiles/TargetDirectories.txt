@@ -1,0 +1,3 @@
+C:/Users/mzake/CLionProjects/hello-git!/cmake-build-debug/CMakeFiles/hello_git_.dir
+C:/Users/mzake/CLionProjects/hello-git!/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mzake/CLionProjects/hello-git!/cmake-build-debug/CMakeFiles/rebuild_cache.dir
